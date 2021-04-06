@@ -1,0 +1,29 @@
+table{
+    display: block;
+    width: auto;
+    border-spacing: 3px;
+}
+
+td{
+    min-width: 200px;
+}
+
+tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+tr{
+    height: 40px;
+}
+
+#getDiv{
+    color: red;
+}
+
+th{
+    color: dimgray;
+}
+
+#error{
+    height: 30px;
+}
